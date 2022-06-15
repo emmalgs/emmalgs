@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @emmalgs
-- 👀 I’m interested in art, dogs, philosophy, trash, birds, actually all animals of land, sea, and air.
-- 🌱 I’m currently learning THE VERY BASICS
-- 📫 How to reach me elgerig@gmail.com
+I am @emmalgs.
 
 <!---
 emmalgs/emmalgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
