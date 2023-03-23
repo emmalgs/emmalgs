@@ -1,7 +1,7 @@
 ## I am @emmalgs.
 Emma Gerigscott
 
-# I am an artist, cook, and web developer.
+#### I am an artist, cook, and web developer.
 
 
 
