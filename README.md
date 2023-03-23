@@ -1,4 +1,9 @@
-I am @emmalgs.
+## I am @emmalgs.
+Emma Gerigscott
+
+# I am an artist, cook, and web developer.
+
+
 
 <!---
 emmalgs/emmalgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
