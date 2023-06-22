@@ -5,7 +5,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/emma.gerigscott/">
-      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+      <a href="http://www.emmalgs.com/">
+      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
+    </a>
+    <a href="http://www.emmagerigscott.com/">
+      <img src="https://img.shields.io/badge/Paintings-yellow?style=for-the-badge" alt="Paintings Badge"/>
     </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=emmalgs&style=flat-square&color=blue" alt=""/>
@@ -19,7 +25,7 @@
 
 ### :technologist: About Me:
 
-#### I am an artist, cook, and web developer.
+#### I am an :artist: artist, :cook: cook, :farmer: gardner, and web developer.
 
 
 
