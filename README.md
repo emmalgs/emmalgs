@@ -25,11 +25,11 @@
 
 ### :technologist: About Me:
 
-#### I am an :artist: artist, :cook: cook, :farmer: gardner, and web developer.
+#### I am an :artist: artist, :cook: cook, :farmer: gardner, and full stack developer.
 
-
-
-<!---
-emmalgs/emmalgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* :telescope: I'm currently enrolled in [Epicodus](learnhowtoprogram.com)
+  * I've learned Javascript, C#, .NET, and moving into learning React
+  * I love making gifs and hiding them in my projects
+* :seedling: Exploring data analytics
+* :zap: In my free time, I like working on building out my artist website, solving sudokus, eating :fish: anchovies, and making art.
+* :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emma-gerigscott/)
