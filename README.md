@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="./imgs/rangerdanger.gif" width="200px"/>
+</div>
+
 ## I am @emmalgs.
 Emma Gerigscott
 
