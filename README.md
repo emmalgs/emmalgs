@@ -30,6 +30,6 @@
 * :telescope: I'm currently enrolled in [Epicodus](learnhowtoprogram.com)
   * I've learned Javascript, C#, .NET, and moving into learning React
   * I love making gifs and hiding them in my projects
-* :seedling: Exploring data analytics
+* :seedling: Exploring functional programming
 * :zap: In my free time, I like working on building out my artist website, solving sudokus, eating :fish: anchovies, and making art.
 * :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emma-gerigscott/)
