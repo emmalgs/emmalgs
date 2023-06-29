@@ -25,7 +25,7 @@
 
 ### :technologist: About Me:
 
-#### I am an :artist: artist, :cook: cook, :farmer: gardner, and full stack developer.
+#### I am an :artist: artist, :cook: cook, :farmer: gardener, and full stack developer.
 
 * :telescope: I'm currently enrolled in [Epicodus](learnhowtoprogram.com)
   * I've learned Javascript, C#, .NET, and moving into learning React
