@@ -24,7 +24,7 @@
 
 <div align="center">  
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalgs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmalgs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
