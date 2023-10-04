@@ -38,10 +38,10 @@
 
 #### I am an :artist: artist, :cook: cook, :farmer: gardener, and full stack developer.
 
-* :telescope: I'm about to move into my first software engineering internship!
-  * I work in C#, Javascript, and all those libraries, frameworks and acronyms synonymous with them. Check out my repos to see what tech I use for my projects!
+* :telescope: I'm searching for a fulltime Software Engineer position
+  * I've built projects in C#, JS, and TS
   * I love making gifs and hiding them in my projects
-* :seedling: Learning Typescript! It's fun!
-* :zap: In my free time, I like working on building out my artist website, solving sudokus, eating :fish: anchovies, and making art.
-* 📖 I studied at Full Stack Programming at [Epicodus](learnhowtoprogram.com)
-* :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emma-gerigscott/)
+* :seedling: Learning Big O, Graph Theory, and just starting a CS50 Machine Learning course with Python.
+* :zap: In my free time, I love to paint, build things with plaster, garden, eat anchovies, and snuggle my hairless guinea pigs.
+* 📖 I studied Full Stack Programming at [Epicodus](learnhowtoprogram.com)
+* :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emma-gerigscott/)
