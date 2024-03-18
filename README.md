@@ -17,12 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=emmalgs&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">  
-  
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmalgs&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
 <div align="center">
 <h2>Hello!</h2>
 </div>
