@@ -19,17 +19,12 @@
 
 <div align="center">  
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=emmalgs&theme=default&mode=weekly)](https://git.io/streak-stats)
-</div>
-
-<div align="center">  
-  
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmalgs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 <div align="center">
-<h2>Hello, Dragon!</h2>
+<h2>Hello!</h2>
 </div>
 
 ---
@@ -38,10 +33,7 @@
 
 #### I am an :artist: artist, :cook: cook, :farmer: gardener, and full stack developer.
 
-* :telescope: I'm searching for a fulltime Software Engineer position
-  * I've built projects in C#, JS, and TS
-  * I love making gifs and hiding them in my projects
-* :seedling: Learning Big O, Graph Theory, and just starting a CS50 Machine Learning course with Python.
+* 🖥️: I'm a full stack engineer at Olio Apps
 * :zap: In my free time, I love to paint, build things with plaster, garden, eat anchovies, and snuggle my hairless guinea pigs.
 * 📖 I studied Full Stack Programming at [Epicodus](learnhowtoprogram.com)
 * :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emma-gerigscott/)
