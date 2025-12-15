@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="./imgs/rangerdanger.gif" width="200px"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/emma-gerigscott/">
+    <a href="https://www.linkedin.com/in/emma-gerig/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/emma.gerigscott/">
@@ -10,7 +10,7 @@
       <a href="http://www.emmalgs.com/">
       <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
-    <a href="http://www.emmagerigscott.com/">
+    <a href="http://www.emmagerig.com/">
       <img src="https://img.shields.io/badge/Paintings-yellow?style=for-the-badge" alt="Paintings Badge"/>
     </a>
 </div>
